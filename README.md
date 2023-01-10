@@ -26,5 +26,8 @@
 - **ORM** : Mybatis
 
 ## 📌 Detail_Info
-- ⭐[노션링크](https://www.notion.so/87662a3c2aef4ac7a1a38a7af370cd5f?p=53c2b32d45204bb890521e7106585cc1&pm=c)
+### ⭐[노션링크](https://www.notion.so/87662a3c2aef4ac7a1a38a7af370cd5f?p=53c2b32d45204bb890521e7106585cc1&pm=c)
 
+### 😵 프로젝트 중 어려웠던점
+ 
+### 😤 회고
