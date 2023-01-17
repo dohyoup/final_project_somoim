@@ -26,7 +26,6 @@
 - **ORM** : Mybatis
 
 ## 📌 Detail_Info
-### ⭐[노션링크](https://www.notion.so/87662a3c2aef4ac7a1a38a7af370cd5f?p=53c2b32d45204bb890521e7106585cc1&pm=c)
 
 ### 😵 주요 구현 기능
 <details>
@@ -56,9 +55,20 @@
    - 카테고리를 선택하거나, 따로 검색을 하거나 둘다 입력하거나 하면 그 조건에 맞춰 모임 리스트를 불러옵니다.<br>
 
 <h4>2. 모임개설 기능 구현</h4>
+- 개인당 가입가능 모임 수를 5개로 제한하기로 설정
+  <h5>Controller</h5>
  
+   - 화면단에서 사용자에게 지역, 모임제목, 모임정보, 관심사, 정원수 등의 정보를 받아온다.<br>
+   - 로그인된 계정에 가입되어있는 모임의 수가 5개를 넘지 않는다는 조건에 충족할시 DB에 저장 합니다.
+     <img src="https://user-images.githubusercontent.com/100770645/212967066-aefdbb3f-7fa0-4646-8c2e-ca2d8ce6954e.PNG">
 <h4>3. 404에러 페이지 구현</h4> 
  
  </details>
+ 
 ### 😤 회고
+
+   - 블로그 링크 추후 공개예정 
+## 📜 Portfolio
+
+### 📒 [노션 포트폴리오](https://www.notion.so/87662a3c2aef4ac7a1a38a7af370cd5f?p=53c2b32d45204bb890521e7106585cc1&pm=c)
 
