@@ -29,7 +29,7 @@
 
 ### 😵 주요 구현 기능
 <details>
- <summary><h4>기능설명</h4></summary>
+  <summary><h4>기능설명</h4></summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 <details>
