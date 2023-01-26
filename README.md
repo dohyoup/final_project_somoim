@@ -92,7 +92,7 @@
  
 ### 😤 회고
 
-  - 블로그 링크 추후 공개예정 
+  ### [파이널 프로젝트 회고 <= TistoryBlog](https://dohyoup.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EB%84%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0) 
 ## 📜 Portfolio
 
 ### 📒 [노션 포트폴리오](https://www.notion.so/87662a3c2aef4ac7a1a38a7af370cd5f?p=53c2b32d45204bb890521e7106585cc1&pm=c)
