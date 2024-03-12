@@ -29,11 +29,12 @@
 
 ### 😵 주요 구현 기능
 <details>
-  <summary><h4>기능설명</h4></summary>
+  <summary>기능설명</summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+<br>
 <details>
-    <summary><h4>1. 검색기능 구현</h4></summary>
+    <summary>1. 검색기능 구현</summary>
  
 - 카테고리 검색, 카테고리+모임명 이 검색될 수 있도록 하는게 구현 목표입니다.<br>
   <h5>Controller</h5>  
@@ -56,8 +57,9 @@
   - 사용자가 검색조건을 사용하지 않았을 때는 전체 모임 리스트를 불러오고<br> 
   - 카테고리를 선택하거나, 따로 검색을 하거나 둘다 입력하거나 하면 그 조건에 맞춰 모임 리스트를 불러옵니다.<br>
 </details>
+<br>
 <details>
-    <summary><h4>2. 모임개설 기능 구현</h4></summary> 
+    <summary>2. 모임개설 기능 구현</summary> 
 
 - 개인당 가입가능 모임 수를 5개로 제한하기로 설정
   <h5>Controller</h5>
@@ -76,8 +78,9 @@
   - 조건에 부합하는  정보를 DB에 저장합니다.  
      <img src="https://user-images.githubusercontent.com/100770645/213175872-e29b8fde-9cf4-40bc-9553-014a44ec929f.PNG">       
 </details>
+<br>
 <details>
-    <summary><h4>3. JSP 공통 에러 페이지 구현</h4></summary> 
+    <summary>3. JSP 공통 에러 페이지 구현</summary> 
  
   - 공통 에러 페이지를 설정해 두지 않으면 웹 컨테이너가 제공하는 기본 에러 페이지가 출력되는데<br>
   - 해당 페이지 내용에 어떤 오류인지에 대한 정보가 출력되기 때문에 보안상 문제가 있으며<br>
